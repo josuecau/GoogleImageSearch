@@ -1,7 +1,5 @@
 <?php
 
-require 'CURLRequest.php';
-
 class GoogleImageSearch {
 	
 	public $baseUrl = 'https://ajax.googleapis.com/ajax/services/search/images';
