@@ -4,7 +4,7 @@
 A PHP class for image search with Google API
 
 ## Requirements
-Requires CURLQuery <https://github.com/josuecau/CURLQuery> cURL class. 
+Requires CURLQuery PHP class for cURL calls : [https://github.com/josuecau/CURLQuery](You can found it here). 
 
 ## Usage
      $search = new GoogleImageSearch( 'YOUR_GOOGLE_API_KEY' );
